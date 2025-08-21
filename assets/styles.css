@@ -1,9 +1,5 @@
 body { font-family: system-ui, Arial, sans-serif; margin: 2rem; }
 h1 { color: #2b6cb0; }
-.badge {
-  display: inline-block;
-  background: #e6fffa;
-  color: #234e52;
-  padding: .25rem .5rem;
-  border-radius: .5rem;
-}
+
+.badge { padding: 4px 10px; background:#EAF8EF; color:#0A6E47; border-radius:999px; font-weight:600; }
+img { max-width:100%; height:auto; border-radius:6px; }
